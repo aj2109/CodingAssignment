@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5BF5CFEE-1917-4E26-A2E4-E34CB44C8B63"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39A57222-7BA9-4594-89AF-BD06ADF6E80E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PalringoPhotos/FlickrFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "init(dictionary:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE822E32-2C1C-4F8D-9F77-7F05E09724CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PalringoPhotos/FlickrFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "getPhotoComments(for:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EEAD98B-3630-40CB-A309-75FC59A3FDF1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PalringoPhotos/CommentCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "photoComment"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DDA7713-D594-4DB0-BB7B-FE52E4B7B649"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PalringoPhotos/PhotoCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "fetchTask"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2558FC01-2EFE-42F8-98E7-8334E7281CE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PalringoPhotos/PhotoCollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "choosePhotographer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2558FC01-2EFE-42F8-98E7-8334E7281CE0 - f08db15aef890906"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PalringoPhotos.PhotoCollectionViewController.(choosePhotographer in _7EF4C7E00539D4C7F57B1F3E9F58A216)() -&gt; ()"
+                  moduleName = "PalringoPhotos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamjessop/Documents/Attempt%20for%20wolf/Archive%206/WORKING%20BIG%20TIME/PalringoPhotos/PhotoCollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  uuid = "2558FC01-2EFE-42F8-98E7-8334E7281CE0 - 7d7b1e7e597c3d53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PalringoPhotos.Photographers) -&gt; () in PalringoPhotos.PhotoCollectionViewController.(choosePhotographer in _7EF4C7E00539D4C7F57B1F3E9F58A216)() -&gt; ()"
+                  moduleName = "PalringoPhotos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamjessop/Documents/Attempt%20for%20wolf/Archive%206/WORKING%20BIG%20TIME/PalringoPhotos/PhotoCollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "109">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DED8587D-A027-4F9B-8C40-05B13C89605A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PalringoPhotos/StringHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "toAttributedHTML()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DED8587D-A027-4F9B-8C40-05B13C89605A - 3f2dcf59f68e624"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in PalringoPhotos):Swift.String.toAttributedHTML() -&gt; __C.NSAttributedString"
+                  moduleName = "PalringoPhotos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamjessop/Documents/Attempt%20for%20wolf/Archive%206/WORKING%20BIG%20TIME/PalringoPhotos/StringHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "151">
+               </Location>
+               <Location
+                  uuid = "DED8587D-A027-4F9B-8C40-05B13C89605A - a8f3f4024dd1bad4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in PalringoPhotosTests):Swift.String.toAttributedHTML() -&gt; __C.NSAttributedString"
+                  moduleName = "PalringoPhotosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamjessop/Documents/Attempt%20for%20wolf/Archive%206/WORKING%20BIG%20TIME/PalringoPhotos/StringHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "151">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "128A3D81-2290-46CB-8D92-78EDAA129BD0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PalringoPhotosTests/PalingroPhotoTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "testDynamicHeight()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9E80F05-BE4A-425B-AB8E-3330EF2373D4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PalringoPhotos/CommentsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "setup(image:photo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
